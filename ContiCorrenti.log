@@ -1,0 +1,733 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UpgradeLog Upgraded = "True" >
+    <Settings>
+        <Setting
+            Name = "LogFile"
+            Value = "ContiCorrenti.log"
+        />
+        <Setting
+            Name = "GenerateInterfacesForClasses"
+            Value = "FALSE"
+        />
+        <Setting
+            Name = "ProjectName"
+            Value = "ContiCorrenti"
+        />
+        <Setting
+            Name = "OutputName"
+            Value = "ContiCorrenti.vbproj"
+        />
+        <Setting
+            Name = "OutputDir"
+            Value = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiDotNet"
+        />
+        <Setting
+            Name = "ProjectPath"
+            Value = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiBancari\ContiCorrenti.vbp"
+        />
+        <Setting
+            Name = "MigrateProjectTo"
+            Value = "0"
+        />
+    </Settings>
+    <File
+        OldPath = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiBancari\frmMovimenti.frm"
+        NewPath = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiDotNet\frmMovimenti.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    >
+        <Section Name = "(Layout)" >
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtIdConto"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtIdConto.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtIdConto"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtIdConto.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtIdConto"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtIdConto.DataSource non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtNumConto"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtNumConto.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtNumConto"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtNumConto.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtNumConto"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtNumConto.DataSource non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtSegnoMovimento"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtSegnoMovimento.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtSegnoMovimento"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtSegnoMovimento.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtSegnoMovimento"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtSegnoMovimento.DataSource non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtDataValuta"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtDataValuta.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtDataValuta"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtDataValuta.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtDataValuta"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtDataValuta.DataSource non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtImporto"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtImporto.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtImporto"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtImporto.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtImporto"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtImporto.DataSource non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtDesMovimento"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtDesMovimento.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtDesMovimento"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtDesMovimento.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtDesMovimento"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtDesMovimento.DataSource non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtDataMovimento"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtDataMovimento.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtDataMovimento"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtDataMovimento.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtDataMovimento"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtDataMovimento.DataSource non è stato aggiornato.</Issue>
+        </Section>
+    </File>
+    <File
+        OldPath = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiBancari\deBanche.Dsr"
+        NewPath = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiDotNet\deBanche.vb"
+        FileType = "ActiveX Designer"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiBancari\frmGestioneContiCorrenti.frm"
+        NewPath = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiDotNet\frmGestioneContiCorrenti.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiBancari\frmCausali.frm"
+        NewPath = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiDotNet\frmCausali.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    >
+        <Section Name = "(Layout)" >
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtGiorniValuta"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtGiorniValuta.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtGiorniValuta"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtGiorniValuta.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtGiorniValuta"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtGiorniValuta.DataSource non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtDescrizione"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtDescrizione.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtDescrizione"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtDescrizione.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtDescrizione"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtDescrizione.DataSource non è stato aggiornato.</Issue>
+        </Section>
+    </File>
+    <File
+        OldPath = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiBancari\frmCitta.frm"
+        NewPath = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiDotNet\frmCitta.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiBancari\frmConti.frm"
+        NewPath = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiDotNet\frmConti.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    >
+        <Section Name = "(Layout)" >
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtIndirizzo"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtIndirizzo.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtIndirizzo"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtIndirizzo.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtIndirizzo"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtIndirizzo.DataSource non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtTelefono"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtTelefono.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtTelefono"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtTelefono.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtTelefono"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtTelefono.DataSource non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtCognome"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtCognome.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtCognome"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtCognome.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtCognome"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtCognome.DataSource non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtNomeCliente"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtNomeCliente.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtNomeCliente"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtNomeCliente.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtNomeCliente"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtNomeCliente.DataSource non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtProg_Avere"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtProg_Avere.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtProg_Avere"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtProg_Avere.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtProg_Avere"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtProg_Avere.DataSource non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtProg_Dare"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtProg_Dare.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtProg_Dare"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtProg_Dare.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtProg_Dare"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtProg_Dare.DataSource non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtSaldoConto"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtSaldoConto.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtSaldoConto"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtSaldoConto.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtSaldoConto"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtSaldoConto.DataSource non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtTasAttivo"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtTasAttivo.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtTasAttivo"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtTasAttivo.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtTasAttivo"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtTasAttivo.DataSource non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtTasPassivo"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtTasPassivo.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtTasPassivo"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtTasPassivo.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtTasPassivo"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtTasPassivo.DataSource non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtNumeroConto"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtNumeroConto.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtNumeroConto"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtNumeroConto.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtNumeroConto"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtNumeroConto.DataSource non è stato aggiornato.</Issue>
+        </Section>
+    </File>
+    <File
+        OldPath = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiBancari\frmFiliali.frm"
+        NewPath = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiDotNet\frmFiliali.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    >
+        <Section Name = "(Layout)" >
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtIndirizzo"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtIndirizzo.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtIndirizzo"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtIndirizzo.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtIndirizzo"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtIndirizzo.DataSource non è stato aggiornato.</Issue>
+        </Section>
+    </File>
+    <File
+        OldPath = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiBancari\frmTitoli.frm"
+        NewPath = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiDotNet\frmTitoli.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    >
+        <Section Name = "(Layout)" >
+            <Issue
+                Type = "Design"
+                Number = "2056"
+                ObjectName = "cmbTitolo"
+                ObjectType = "ComboBox"
+                PME = "ItemData"
+            >La proprietà di ComboBox cmbTitolo.ItemData non è stata aggiornata.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "cmbTitolo"
+                ObjectType = "ComboBox"
+                PME = "DataField"
+            >ComboBox proprietà cmbTitolo.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "cmbTitolo"
+                ObjectType = "ComboBox"
+                PME = "DataMember"
+            >ComboBox proprietà cmbTitolo.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "cmbTitolo"
+                ObjectType = "ComboBox"
+                PME = "DataSource"
+            >ComboBox proprietà cmbTitolo.DataSource non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtValutaInteresse"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtValutaInteresse.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtValutaInteresse"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtValutaInteresse.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtValutaInteresse"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtValutaInteresse.DataSource non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtDataCedola2"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtDataCedola2.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtDataCedola2"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtDataCedola2.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtDataCedola2"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtDataCedola2.DataSource non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtDataCedola1"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtDataCedola1.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtDataCedola1"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtDataCedola1.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtDataCedola1"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtDataCedola1.DataSource non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtValoreCedola"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtValoreCedola.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtValoreCedola"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtValoreCedola.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtValoreCedola"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtValoreCedola.DataSource non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtTassoInteresse"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtTassoInteresse.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtTassoInteresse"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtTassoInteresse.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtTassoInteresse"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtTassoInteresse.DataSource non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtValoreNominale"
+                ObjectType = "TextBox"
+                PME = "DataField"
+            >TextBox proprietà txtValoreNominale.DataField non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtValoreNominale"
+                ObjectType = "TextBox"
+                PME = "DataMember"
+            >TextBox proprietà txtValoreNominale.DataMember non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "txtValoreNominale"
+                ObjectType = "TextBox"
+                PME = "DataSource"
+            >TextBox proprietà txtValoreNominale.DataSource non è stato aggiornato.</Issue>
+        </Section>
+        <Section Name = "txtValutaInteresse_GotFocus" >
+            <Issue
+                Type = "Runtime"
+                Number = "1037"
+            >Impossibile risolvere la proprietà predefinita dell'oggetto txtIdCausale.Text.</Issue>
+        </Section>
+    </File>
+    <File
+        OldPath = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiBancari\frmEstrattoConto.frm"
+        NewPath = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiDotNet\frmEstrattoConto.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiBancari\frmCap.frm"
+        NewPath = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiDotNet\frmCap.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiBancari\frmProvincia.frm"
+        NewPath = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiDotNet\frmProvincia.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiBancari\ctrlProv.ctl"
+        NewPath = "C:\Documents and Settings\Maurizio\Desktop\ContiCorrentiDotNet\ctrlProv.vb"
+        FileType = "User Control"
+        Upgraded = "True"
+    >
+        <Section Name = "(Layout)" >
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "UserControl"
+                ObjectType = "UserControl"
+                PME = "AccessKeys"
+            >UserControl proprietà UserControl.AccessKeys non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "ctrlProv"
+                ObjectType = "UserControl"
+                PME = "BackStyle"
+            >UserControl proprietà ctrlProv.BackStyle non è stato aggiornato.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "ctrlProv"
+                ObjectType = "UserControl"
+                PME = "BorderStyle"
+            >UserControl proprietà ctrlProv.BorderStyle non è stato aggiornato.</Issue>
+        </Section>
+    </File>
+    <Issue
+        Type = "Global Warning"
+        Number = "3065"
+    >L'associazione dati per ComboBox cmbTitolo è in sola lettura.</Issue>
+    <Issue
+        Type = "Global Warning"
+        Number = "6001"
+    >È necessario generare UserControls dopo avere eseguito l'aggiornamento.</Issue>
+</UpgradeLog>
+
