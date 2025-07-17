@@ -132,3 +132,7 @@ class SerieACalendar
         }
     }
 }
+public static void main(String[] args)
+       {  
+         SerieACalendar SerieA = new SerieACalendar();
+    }
